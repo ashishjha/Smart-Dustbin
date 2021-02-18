@@ -9,3 +9,5 @@ An IoT based smart dustbin module which can be fitted in any dustbin to make it 
 3. Node MCU ESP8266             
 4.	Connecting wires
 5.	Battery
+
+![4](./images/4.jpg)
