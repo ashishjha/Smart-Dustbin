@@ -11,3 +11,7 @@ An IoT based smart dustbin module which can be fitted in any dustbin to make it 
 5.	Battery
 
 ![4](./images/4.jpg)
+![5](./images/5.jpg)
+![3](./images/3.jpg)
+![2](./images/2.jpg)
+![1](./images/1.jpg)
